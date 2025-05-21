@@ -26,6 +26,6 @@ npm start
 - If you are running this site on replit or other hosting platform that bans proxies, use [Shuttle Lite](https://github.com/shuttlenetwork/shuttle-lite)
 - If you are saving file?↓
 git add .
-git commit -m "add server for reCAPTCHA"
+git commit -m "Last updated 5/21"
 git push
 
